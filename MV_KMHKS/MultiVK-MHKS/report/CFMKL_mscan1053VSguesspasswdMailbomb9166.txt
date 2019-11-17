@@ -1,0 +1,8 @@
+Setting: Dataset-mscan1053VSguesspasswdMailbomb9166 
+The 1 cycle--- AUC: 0.757471; 
+The 2 cycle--- AUC: 0.999733; 
+The 3 cycle--- AUC: 1.000000; 
+The 4 cycle--- AUC: 1.000000; 
+The 5 cycle--- AUC: 1.000000; 
+The average of AUC: 0.951441; the gamma is: 10.000000; the average running time is: 585.939006;
+The best of AUC is: 0.951441; std: 0.108433; the time is: 585.948045; the C is: 0.001000;  the gamma is: 10.000000; the kernel pars are: 0.125000,0.250000,8.000000 

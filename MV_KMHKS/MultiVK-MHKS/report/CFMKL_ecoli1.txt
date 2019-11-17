@@ -1,0 +1,8 @@
+Setting: Dataset-ecoli1 
+The 1 cycle--- AUC: 0.824519; 
+The 2 cycle--- AUC: 0.867034; 
+The 3 cycle--- AUC: 0.900000; 
+The 4 cycle--- AUC: 0.880769; 
+The 5 cycle--- AUC: 0.790385; 
+The average of AUC: 0.852541; the gamma is: 10.000000; the average running time is: 0.226095;
+The best of AUC is: 0.852541; std: 0.044463; the time is: 0.226162; the C is: 0.001000;  the gamma is: 10.000000; the kernel pars are: 0.125000,0.250000,8.000000 

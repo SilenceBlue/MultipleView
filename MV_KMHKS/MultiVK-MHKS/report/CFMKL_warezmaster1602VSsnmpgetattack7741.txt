@@ -1,0 +1,8 @@
+Setting: Dataset-warezmaster1602VSsnmpgetattack7741 
+The 1 cycle--- AUC: 0.997418; 
+The 2 cycle--- AUC: 1.000000; 
+The 3 cycle--- AUC: 0.999677; 
+The 4 cycle--- AUC: 1.000000; 
+The 5 cycle--- AUC: 1.000000; 
+The average of AUC: 0.999419; the gamma is: 10.000000; the average running time is: 413.102917;
+The best of AUC is: 0.999419; std: 0.001127; the time is: 413.111284; the C is: 0.001000;  the gamma is: 10.000000; the kernel pars are: 0.125000,0.250000,8.000000 

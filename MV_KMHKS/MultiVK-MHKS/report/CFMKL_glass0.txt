@@ -1,0 +1,8 @@
+Setting: Dataset-glass0 
+The 1 cycle--- AUC: 0.806650; 
+The 2 cycle--- AUC: 0.681034; 
+The 3 cycle--- AUC: 0.735222; 
+The 4 cycle--- AUC: 0.663793; 
+The 5 cycle--- AUC: 0.785714; 
+The average of AUC: 0.734483; the gamma is: 10.000000; the average running time is: 0.078186;
+The best of AUC is: 0.734483; std: 0.062624; the time is: 0.078251; the C is: 0.001000;  the gamma is: 10.000000; the kernel pars are: 0.125000,0.250000,8.000000 

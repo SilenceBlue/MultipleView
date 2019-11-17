@@ -1,0 +1,8 @@
+Setting: Dataset-snmpguess2406VSsnmpgetattack7741 
+The 1 cycle--- AUC: 0.992899; 
+The 2 cycle--- AUC: 0.503119; 
+The 3 cycle--- AUC: 0.500000; 
+The 4 cycle--- AUC: 0.500000; 
+The 5 cycle--- AUC: 0.500000; 
+The average of AUC: 0.599203; the gamma is: 10.000000; the average running time is: 484.524441;
+The best of AUC is: 0.599203; std: 0.220086; the time is: 484.534148; the C is: 0.001000;  the gamma is: 10.000000; the kernel pars are: 0.125000,0.250000,8.000000 

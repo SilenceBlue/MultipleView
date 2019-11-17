@@ -1,0 +1,8 @@
+Setting: Dataset-warezmaster1602VSguessPasswdMaibomb9367 
+The 1 cycle--- AUC: 0.808251; 
+The 2 cycle--- AUC: 1.000000; 
+The 3 cycle--- AUC: 1.000000; 
+The 4 cycle--- AUC: 1.000000; 
+The 5 cycle--- AUC: 1.000000; 
+The average of AUC: 0.961650; the gamma is: 10.000000; the average running time is: 635.630935;
+The best of AUC is: 0.961650; std: 0.085753; the time is: 635.642295; the C is: 0.001000;  the gamma is: 10.000000; the kernel pars are: 0.125000,0.250000,8.000000 
